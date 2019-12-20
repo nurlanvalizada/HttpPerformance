@@ -1,0 +1,11 @@
+# IDEs and editors
+.vs/
+
+# bin and obj folders
+/HttpPerformance/bin
+/HttpPerformance/obj
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
